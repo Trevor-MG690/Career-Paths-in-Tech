@@ -7,6 +7,7 @@ This is a collaborative assesment compiled by Trevor, Blessy, Cypril , Peace and
 - [software engineer](#software-engineer)
 - [Data scientist](#data-scientist)
 - [Ux designer](#ux-designer)
+- [Digital marketer](#digital-marketer)
 
 ## Introduction
 This assesment covers the various carrer paths that are found in the ever developing Tech industry. Each section is written by a different contributor of this research.
@@ -19,3 +20,6 @@ This assesment covers the various carrer paths that are found in the ever develo
 
 ## UX designer
 <!--[another team member will contribute here] -->
+
+## Digital marketer
+<!-- [The other team member will write here] -->
