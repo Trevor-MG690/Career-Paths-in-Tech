@@ -16,7 +16,24 @@ This assesment covers the various career paths that are found in the ever develo
 <!--[Someone is writing this part] -->
 
 ## Data scientist
-<!--[another team member will write here] -->
+** Data scientist** collects, analyze, and interpret large datasets to help organizations make informed decisions.
+They use skills in statistics, programming, and business knowledge with tools like Python, R, SQL, and machine learning frameworks to uncover patterns, predict trends, and transform raw data into insights that can drive growth and innovation.
+### What Data scientist can do
+- Collect and clean data that is either structured or unstructured
+- Analyze data using statistical techniques
+- Communicate insights to stakeholders
+- Build predictive models using machine learning
+### Skills Required
+1. Strong understanding of statistics and mathematics
+2. Knowledge of machine learning concepts
+3. Data visualization skills
+4. Critical thinking and problem-solving
+5. Programming skills like Python, SQL
+### Useful Links
+- [What is Data Science?] (https://www.ibm.com/think/topics/data-science)
+- [Kaggle-Practice Data Science] (https://www.kaggle.com/)
+- [Google Data Analytics Certificate] ((https://grow.google/intl/ssa-en/)
+
 
 ## UX designer
 <!--[another team member will contribute here] -->
