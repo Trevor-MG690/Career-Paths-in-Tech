@@ -16,7 +16,7 @@ This assesment covers The various career paths that are found in the ever develo
 <!--[Someone is writing this part] -->
 
 ## Data scientist
-** Data scientist** collects, analyze, and interpret large datasets to help organizations make informed decisions.
+**Data scientist** collects, analyze, and interpret large datasets to help organizations make informed decisions.
 They use skills in statistics, programming, and business knowledge with tools like Python, R, SQL, and machine learning frameworks to uncover patterns, predict trends, and transform raw data into insights that can drive growth and innovation.
 ### What Data scientist can do
 - Collecting and cleaning data that is either structured or unstructured
