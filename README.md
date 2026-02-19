@@ -30,9 +30,9 @@ They use skills in statistics, programming, and business knowledge with tools li
 4. Critical thinking and problem-solving
 5. Programming skills like Python, SQL
 ### Useful Links
-- [What is Data Science?] (https://www.ibm.com/think/topics/data-science)
-- [Kaggle-Practice Data Science] (https://www.kaggle.com/)
-- [Google Data Analytics Certificate] ((https://grow.google/intl/ssa-en/)
+- [What is Data Science?](https://www.ibm.com/think/topics/data-science)
+- [Kaggle-Practice Data Science](https://www.kaggle.com/)
+- [Google Data Analytics Certificate](https://grow.google/intl/ssa-en/)
 
 
 ## UX designer
