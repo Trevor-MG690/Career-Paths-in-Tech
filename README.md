@@ -10,7 +10,7 @@ This is a collaborative assesment created and compiled by Trevor, Blessy, Cypril
 - [Digital marketer](#digital-marketer)
 
 ## Introduction
-This assesment covers the various career paths that are found in the ever developing Tech industry. Each section is written by a different contributor of this research.The research covers career paths such as Software engineering, Data Scientist, DIgital marketer, UX designer and amongst others.
+This assesment covers the various career paths that are found in the ever developing Tech industry. Each section is written by a different contributor of this research.The research covers career paths such as Software engineering, Data Scientist, Digital marketer, UX designer and amongst others.
 
 ## Software engineer
 <!--[Someone is writing this part] -->
