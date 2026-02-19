@@ -10,7 +10,7 @@ This is a collaborative assesment compiled by Trevor, Blessy, Cypril , Peace and
 - [Digital marketer](#digital-marketer)
 
 ## Introduction
-This assesment covers the various carrer paths that are found in the ever developing Tech industry. Each section is authored by a different contributor of this research.
+This assesment covers the various carrer paths that are found in the ever developing Tech industry. Each section has been authored by a different contributor of this research.
 
 ## Software engineer
 <!--[Someone is writing this part] -->
