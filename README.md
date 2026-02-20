@@ -19,7 +19,23 @@ This assesment covers The various career paths that are found in the ever develo
 <!--[another team member will write here] -->
 
 ## UX designer
-<!--[another team member will contribute here] -->
+A **User Experience Designer** is responsible for ensuring a product is easy, useful and enjoyable to use. e.g. website, software etc
+### What a UX Designer does
+1. Does research on what problems people have and what they need.
+2. Organized content so that it makes sense.
+3. Dresses simple layouts of screens before the designing process begins.
+4. Tests designs to see if users can easily use the product.
+5. Improves experience of a product by fixing problems based on feedback.
+### Skills Required
+- Problem-solving
+- Communication
+- Creativity
+- Basic research skills
+### Useful links
+[Google UX design certificate](https://www.coursera.org/professional-certificates/google-ux-design)
+[Interaction Design Foundation](https://www.interaction-design.org) 
+[Research Articles](https://www.nngroup.com)
+
 
 ## Digital marketer
 <!-- [The other team member will write here] -->
