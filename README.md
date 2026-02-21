@@ -12,8 +12,33 @@ This is a collaborative assesment created and compiled by Trevor, Blessy, Cindy 
 ## Introduction
 This assesment covers The various career paths that are found in the ever developing Tech industry. Each section is written by a different contributor of this research.The research covers career paths such as Software engineering, Data Scientist, Digital marketer, UX designer and amongst others.
 
-## Software engineer
-<!--[Someone is writing this part] -->
+## Software enginineer
+
+A Software Engineer is a professional who designs, builds, tests, and maintains software systems and applications.
+Software engineers use programming languages, problem-solving skills, and engineering principles to create solutions for real-world problems.
+
+### What Does a Software Engineer Do?
+
+- Write and test code
+- Debug and fix software issues
+- Design system architecture
+- Collaborate with designers and other developers
+- Maintain and update existing systems
+
+### Skills Required
+
+- Knowledge of programming languages (Python, JavaScript, Java, etc.)
+- Problem-solving skills
+- Understanding of algorithms and data structures
+- Version control (Git and GitHub)
+- Communication and teamwork skills
+
+### Useful links 
+[Tools and platforms](https://code.visualstudio.com/)
+[Career & JOB Resources](
+https://www.glassdoor.com/Salaries/software-engineer-salary-SRCH_KO0,17.htm)
+[Developer communities](https://github.community/)
+
 
 ## Data scientist
 **Data scientist** collects, analyze, and interpret large datasets to help organizations make informed decisions.
