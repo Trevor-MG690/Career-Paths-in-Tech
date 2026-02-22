@@ -79,4 +79,30 @@ A **User Experience Designer** is responsible for ensuring a product is easy, us
 - [Research Articles](https://www.nngroup.com)
 
 ## Digital marketer
-<!-- [The other team member will write here] -->
+Digital marketer is a professional who promotes products, services, or brands using online platforms and digital technologies.
+They use the internet and digital tools to reach customers, increase brand awareness, generate leads, and drive sales.
+
+### What does Digital Marketer Do?
+
+- Social Media Marketing – Managing platforms like Facebook, Instagram, TikTok, LinkedIn.
+- Search Engine Optimization (SEO) – Helping websites rank higher on Google.
+- Content Marketing – Creating blog posts, videos, graphics, and captions.
+- Email Marketing – Sending promotional emails and newsletters.
+- Paid Advertising – Running ads on Google, Facebook, Instagram, etc.
+- Analytics & Reporting – Tracking results using tools like Google Analytics.
+
+
+### Skills required:
+
+1. Communication skills
+2. Creativity
+3. Basic graphic design
+3. Copywriting
+4. Data analysis
+5. Understanding of online tools
+
+### Useful links 
+
+  Digital Marketing Toolbox
+  Coursera Digital Marketing Resources
+  Social Media Examiner
