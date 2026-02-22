@@ -4,7 +4,7 @@ This is a collaborative assesment created and compiled by Trevor, Blessy, Cindy 
 
 ## Table of contents
 - [Introduction](#introduction)
-- [software engineer](#software-engineer)
+- [Software engineer](#software-engineer)
 - [Data scientist](#data-scientist)
 - [Ux designer](#ux-designer)
 - [Digital marketer](#digital-marketer)
@@ -12,7 +12,7 @@ This is a collaborative assesment created and compiled by Trevor, Blessy, Cindy 
 ## Introduction
 This assesment covers The various career paths that are found in the ever developing Tech industry. Each section is written by a different contributor of this research.The research covers career paths such as Software engineering, Data Scientist, Digital marketer, UX designer and amongst others.
 
-## Software enginineer
+## Software engineer
 
 A Software Engineer is a professional who designs, builds, tests, and maintains software systems and applications.
 Software engineers use programming languages, problem-solving skills, and engineering principles to create solutions for real-world problems.
@@ -34,10 +34,9 @@ Software engineers use programming languages, problem-solving skills, and engine
 - Communication and teamwork skills
 
 ### Useful links 
-[Tools and platforms](https://code.visualstudio.com/)
-[Career & JOB Resources](
-https://www.glassdoor.com/Salaries/software-engineer-salary-SRCH_KO0,17.htm)
-[Developer communities](https://github.community/)
+- [Tools and platforms](https://code.visualstudio.com/)
+- [Career & Job Resources](https://www.glassdoor.com/Salaries/software-engineer-salary-SRCH_KO0,17.htm)
+- [Developer communities](https://github.community/)
 
 
 ## Data scientist
@@ -102,7 +101,6 @@ They use the internet and digital tools to reach customers, increase brand aware
 5. Understanding of online tools
 
 ### Useful links 
-
-  Digital Marketing Toolbox
-  Coursera Digital Marketing Resources
-  Social Media Examiner
+- [Digital Marketing Toolbox](https://thedigitalmarketingtoolbox.com)
+- [Coursera Digital Marketing Resources](https://www.coursera.org/courseraplus?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_coursera_ftcof_courseraplus_cx_dr_bau_gg_sem_bd-ph_s4_en_m_hyb_24-12_x&campaignid=22018854213&adgroupid=171749193989&device=c&keyword=coursera&matchtype=p&network=g&devicemodel=&creativeid=725367196726&assetgroupid=&targetid=kwd-47214992984&extensionid=&placement=&gad_source=1&gad_campaignid=22018854213&gclid=Cj0KCQiA7-rMBhCFARIsAKnLKtCO477VuFNNYyPLIuucJl-_P3ke5Qrb5VlXvORlqwtBdn5c4UsMDQ0aAi7aEALw_wcB)
+- [Social Media Examiner](https://www.socialmediaexaminer.com)
