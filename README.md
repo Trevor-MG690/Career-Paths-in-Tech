@@ -41,6 +41,14 @@ The average software engineer salary in the United States is $159,637 as of Febr
 ### Job demand statistics
 Software engineers are projected to add approximately 153,900 new jobs annually due to demand for mobile apps, AI, and cybersecurity.
 
+### Skills and recommended certifications
+Software engineers are expected to possess a range of skills, including proficiency in programming languages, knowledge of software development methodologies, and understanding of security practices. Recommended certifications for software engineers include:
+- Oracle Certified Associate
+- Java SE Programmer
+- Professional Software Engineering Master (PSEM)
+- Certified Secure Software Lifecycle Professional (CSSLP)
+- Professional Software Developer Certification
+
 ### Useful links 
 - [Tools and platforms](https://code.visualstudio.com/)
 - [Career & Job Resources](https://www.glassdoor.com/Salaries/software-engineer-salary-SRCH_KO0,17.htm)
@@ -68,6 +76,12 @@ The median annual wage for data scientists was $112,590 in May 2024.
 
 ### Job demand statistics
 About 23,400 openings for data scientists are projected each year, on average, over the decade. 
+
+### Skills and recommended certifications
+Data scientists are expected to possess a range of skills such as mathematics and statistics, programming languages, machine learning, data wrangling and data visualization. Recommended certifications for data scientists include:
+- Certified Analytics Professional (CAP)
+- Google Data Analytics Professional Certificate
+- IBM Data Science Professional Certificate
 
 ### Useful Links
 - [What is Data Science?](https://www.ibm.com/think/topics/data-science)
@@ -97,6 +111,14 @@ The median total salary for UX designers in the US is approximately $109,000 ann
 
 ### Job demand statistics
 The demand for UX designers is expected to continue growing as businesses increasingly rely on user-centric design to improve their products and services. 
+
+### Skills and recommended certifications
+UX designers are expected to possess a range of skills, including User research, design principles, phototyping tools and collaboration.Recommended certifications for UX designers include:
+- AGI: UX Design Certificate 
+- Bentley UX Certificate 
+- Microsoft UX Design Professional Certificate 
+- Certificate in User Experience Design 
+- Professional Certificate in UI Design 
 
 ### Useful links
 - [Google UX design certificate](https://www.coursera.org/professional-certificates/google-ux-design)
@@ -134,6 +156,14 @@ Senior digital marketers can command salaries ranging from $113,657 to $128,831.
 
 ### Job demand statistics
 The demand for digital marketers is projected to grow significantly, with a 19% increase in job openings from 2018 to 2028.
+
+### Skills and recommended certifications
+UX designers are expected to possess a range of skills, including communication, creative thinking, content creation, SEO and SEM and basic design skills.Recommended certifications for Digital marketers include:
+- Google Digital Marketing & E-commerce Professional Certificate
+- Google Ads Certifications
+- Google Analytics Individual Qualification
+- Hootsuite Social Marketing Certification
+- Digital Marketing Institute (DMI) Certification
 
 ### Useful links 
 - [Digital Marketing Toolbox](https://thedigitalmarketingtoolbox.com)
