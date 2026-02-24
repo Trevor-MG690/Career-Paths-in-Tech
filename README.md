@@ -25,7 +25,7 @@ Software engineers use programming languages, problem-solving skills, and engine
 - Collaborate with designers and other developers
 - Maintain and update existing systems
 
-![UX designer roles](https://www.tcgen.com/images/product-development/what-does-a-ux-designer-do.jpg)
+
 
 ### Skills Required
 
@@ -70,6 +70,8 @@ A **User Experience Designer** is responsible for ensuring a product is easy, us
 3. Dresses simple layouts of screens before the designing process begins.
 4. Tests designs to see if users can easily use the product.
 5. Improves experience of a product by fixing problems based on feedback.
+
+![UX designer roles](https://www.tcgen.com/images/product-development/what-does-a-ux-designer-do.jpg)
 ### Skills Required
 - Problem-solving
 - Communication
