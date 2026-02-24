@@ -47,6 +47,7 @@ They use skills in statistics, programming, and business knowledge with tools li
 - Analyzing data using statistical techniques
 - Communicating insights to stakeholders
 - Building predictive models using machine learning
+![UX designer roles](https://www.google.com/imgres?q=UX%20designer&imgurl=https%3A%2F%2Fwww.tcgen.com%2Fimages%2Fproduct-development%2Fwhat-does-a-ux-designer-do.jpg&imgrefurl=https%3A%2F%2Fwww.tcgen.com%2Fproduct-development%2Fux-product-design%2F&docid=DnuAuNTjn37EXM&tbnid=ay6TGDXSL7vjXM&vet=12ahUKEwik7p_8wfGSAxUsywIHHR1tJl4QnPAOegQIFhAB..i&w=1200&h=1230&hcb=2&ved=2ahUKEwik7p_8wfGSAxUsywIHHR1tJl4QnPAOegQIFhAB/image.png)
 ### Skills Required
 1. Strong understanding of statistics and mathematics
 2. Knowledge of machine learning concepts
