@@ -169,3 +169,10 @@ UX designers are expected to possess a range of skills, including communication,
 - [Digital Marketing Toolbox](https://thedigitalmarketingtoolbox.com)
 - [Coursera Digital Marketing Resources](https://www.coursera.org/courseraplus?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_coursera_ftcof_courseraplus_cx_dr_bau_gg_sem_bd-ph_s4_en_m_hyb_24-12_x&campaignid=22018854213&adgroupid=171749193989&device=c&keyword=coursera&matchtype=p&network=g&devicemodel=&creativeid=725367196726&assetgroupid=&targetid=kwd-47214992984&extensionid=&placement=&gad_source=1&gad_campaignid=22018854213&gclid=Cj0KCQiA7-rMBhCFARIsAKnLKtCO477VuFNNYyPLIuucJl-_P3ke5Qrb5VlXvORlqwtBdn5c4UsMDQ0aAi7aEALw_wcB)
 - [Social Media Examiner](https://www.socialmediaexaminer.com)
+
+## Collaborators
+1. [Trevor](https://github.com/Trevor-MG690/Trevor-MG690)
+2. [Cindy](https://github.com/CindyJoy34/Cindy-Joy)
+3. [Blessy](https://github.com/blessymuigai2023-gif/blessymuigai2023)
+4. [Peace](https://github.com/peacemwende/peacemwende)
+5. [Mary](https://github.com/ayakomary42-jpg/ayakomary42-jpg)
