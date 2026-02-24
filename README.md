@@ -25,7 +25,6 @@ Software engineers use programming languages, problem-solving skills, and engine
 - Collaborate with designers and other developers
 - Maintain and update existing systems
 
-![UX designer roles](https://www.tcgen.com/images/product-development/what-does-a-ux-designer-do.jpg)
 
 ### Skills Required
 
@@ -34,6 +33,12 @@ Software engineers use programming languages, problem-solving skills, and engine
 - Understanding of algorithms and data structures
 - Version control (Git and GitHub)
 - Communication and teamwork skills
+
+###Salary Ranges
+The average software engineer salary in the United States is $159,637 as of February 01, 2026. The range typically falls between $78,898 and $240,377
+
+###Job demand statistics
+Software engineers are projected to add approximately 153,900 new jobs annually due to demand for mobile apps, AI, and cybersecurity.
 
 ### Useful links 
 - [Tools and platforms](https://code.visualstudio.com/)
@@ -56,6 +61,13 @@ They use skills in statistics, programming, and business knowledge with tools li
 3. Data visualization skills
 4. Critical thinking and problem-solving
 5. Programming skills like Python, SQL
+
+### Salary ranges
+The median annual wage for data scientists was $112,590 in May 2024.
+
+### Job demand statistics
+About 23,400 openings for data scientists are projected each year, on average, over the decade. 
+
 ### Useful Links
 - [What is Data Science?](https://www.ibm.com/think/topics/data-science)
 - [Kaggle-Practice Data Science](https://www.kaggle.com/)
@@ -70,11 +82,21 @@ A **User Experience Designer** is responsible for ensuring a product is easy, us
 3. Dresses simple layouts of screens before the designing process begins.
 4. Tests designs to see if users can easily use the product.
 5. Improves experience of a product by fixing problems based on feedback.
+
+![UX designer roles](https://www.tcgen.com/images/product-development/what-does-a-ux-designer-do.jpg)
+
 ### Skills Required
 - Problem-solving
 - Communication
 - Creativity
 - Basic research skills
+
+### Salary Ranges
+The median total salary for UX designers in the US is approximately $109,000 annually.
+
+### Job demand statistics
+The demand for UX designers is expected to continue growing as businesses increasingly rely on user-centric design to improve their products and services. 
+
 ### Useful links
 - [Google UX design certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 - [Interaction Design Foundation](https://www.interaction-design.org) 
@@ -105,6 +127,12 @@ They use the internet and digital tools to reach customers, increase brand aware
 3. Copywriting
 4. Data analysis
 5. Understanding of online tools
+
+### Salary ranges
+Senior digital marketers can command salaries ranging from $113,657 to $128,831. 
+
+### Job demand statistics
+The demand for digital marketers is projected to grow significantly, with a 19% increase in job openings from 2018 to 2028.
 
 ### Useful links 
 - [Digital Marketing Toolbox](https://thedigitalmarketingtoolbox.com)
