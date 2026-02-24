@@ -1,6 +1,6 @@
 # Career-Paths-in-Tech
 
-This is a collaborative assesment created and compiled by Trevor, Blessy, Cindy , Peace and Mary
+This is a collaborative assesment created and compiled by Trevor, Blessy, Cindy, Peace and Mary
 
 ## Table of contents
 - [Introduction](#introduction)
