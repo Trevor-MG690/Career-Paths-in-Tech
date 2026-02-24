@@ -25,6 +25,8 @@ Software engineers use programming languages, problem-solving skills, and engine
 - Collaborate with designers and other developers
 - Maintain and update existing systems
 
+![UX designer roles](https://www.tcgen.com/images/product-development/what-does-a-ux-designer-do.jpg)
+
 ### Skills Required
 
 - Knowledge of programming languages (Python, JavaScript, Java, etc.)
@@ -47,8 +49,6 @@ They use skills in statistics, programming, and business knowledge with tools li
 - Analyzing data using statistical techniques
 - Communicating insights to stakeholders
 - Building predictive models using machine learning
-
-![UX designer roles](<img width="1200" height="1230" alt="image" src="https://github.com/user-attachments/assets/09a9cd2e-a000-4984-9e5d-4b3a75bac082" />)
 
 ### Skills Required
 1. Strong understanding of statistics and mathematics
