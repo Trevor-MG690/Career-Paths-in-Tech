@@ -76,6 +76,9 @@ A **User Experience Designer** is responsible for ensuring a product is easy, us
 - [Google UX design certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 - [Interaction Design Foundation](https://www.interaction-design.org) 
 - [Research Articles](https://www.nngroup.com)
+- [Google UX design certificate](https://www.coursera.org/professional-certificates/google-ux-design)
+- [Interaction Design Foundation](https://www.interaction-design.org) 
+- [Research Articles](https://www.nngroup.com)
 
 ## Digital marketer
 Digital marketer is a professional who promotes products, services, or brands using online platforms and digital technologies.
