@@ -1,6 +1,6 @@
 # Career-Paths-in-Tech
 
-This is a collaborative assesment created and compiled by Trevor, Blessy, Cindy, Peace and Mary
+This is a collaborative assesment created and compiled by **Trevor**, **Blessy**, **Cindy**, **Peace** and **Mary**
 
 ## Table of contents
 - [Introduction](#introduction)
@@ -29,11 +29,11 @@ Software engineers use programming languages, problem-solving skills, and engine
 
 ### Skills Required
 
-- Knowledge of programming languages (Python, JavaScript, Java, etc.)
-- Problem-solving skills
-- Understanding of algorithms and data structures
-- Version control (Git and GitHub)
-- Communication and teamwork skills
+1. Knowledge of programming languages (Python, JavaScript, Java, etc.)
+2. Problem-solving skills
+3. Understanding of algorithms and data structures
+4. Version control (Git and GitHub)
+5. Communication and teamwork skills
 
 ### Salary Ranges
 The average software engineer salary in the United States is $159,637 as of February 01, 2026. The range typically falls between $78,898 and $240,377
@@ -92,19 +92,19 @@ Data scientists are expected to possess a range of skills such as mathematics an
 ## UX designer
 A **User Experience Designer** is responsible for ensuring a product is easy, useful and enjoyable to use. e.g. website, software etc
 ### What a UX Designer does
-1. Does research on what problems people have and what they need.
-2. Organized content so that it makes sense.
-3. Dresses simple layouts of screens before the designing process begins.
-4. Tests designs to see if users can easily use the product.
-5. Improves experience of a product by fixing problems based on feedback.
+- Does research on what problems people have and what they need.
+- Organized content so that it makes sense.
+- Dresses simple layouts of screens before the designing process begins.
+- Tests designs to see if users can easily use the product.
+- Improves experience of a product by fixing problems based on feedback.
 
 ![UX designer roles](https://www.tcgen.com/images/product-development/what-does-a-ux-designer-do.jpg)
 
 ### Skills Required
-- Problem-solving
-- Communication
-- Creativity
-- Basic research skills
+1. Problem-solving
+2. Communication
+3. Creativity
+4. Basic research skills
 
 ### Salary Ranges
 The median total salary for UX designers in the US is approximately $109,000 annually.
