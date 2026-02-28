@@ -92,7 +92,7 @@ Data scientists are expected to possess a range of skills such as mathematics an
 ## UX designer
 A **User Experience Designer** is responsible for ensuring a product is easy, useful and enjoyable to use. e.g. website, software etc
 ### What a UX Designer does
-- Does research on what problems people have and what they need.
+- Does research on the problems that people encounter and what they need.
 - Organized content so that it makes sense.
 - Dresses simple layouts of screens before the designing process begins.
 - Tests designs to see if users can easily use the product.
