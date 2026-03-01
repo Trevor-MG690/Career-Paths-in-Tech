@@ -146,6 +146,7 @@ They use the internet and digital tools to reach customers, increase brand aware
 - Paid Advertising – Running ads on Google, Facebook, Instagram, etc.
 - Analytics & Reporting – Tracking results using tools like Google Analytics.
 
+![Digital marketing](https://media.licdn.com/dms/image/v2/C5612AQEmsXeihEwrdw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1645206867591?e=2147483647&v=beta&t=CVK5T3zsA0DHKsInoGFafgznkibUwNGN-oqR4hngJs8?/image.png)
 
 ### Skills required:
 
