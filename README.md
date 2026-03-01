@@ -39,7 +39,7 @@ Software engineers use programming languages, problem-solving skills, and engine
 The average software engineer salary in the United States is $159,637 as of February 01, 2026. The range typically falls between $78,898 and $240,377
 
 ### Job demand statistics
-Software engineers are projected to add approximately 153,900 new jobs annually due to demand for mobile apps, AI, and cybersecurity.
+Software engineers are projected to add approximately 140,900 new jobs annually due to demand for mobile apps, AI, and cybersecurity.
 
 ### Skills and recommended certifications
 Software engineers are expected to possess a range of skills, including proficiency in programming languages, knowledge of software development methodologies, and understanding of security practices. Recommended certifications for software engineers include:
