@@ -10,14 +10,14 @@ This is a collaborative assesment created and compiled by **Trevor**, **Blessy**
 - [Digital marketer](#digital-marketer)
 
 ## Introduction
-This assesment covers The various career paths that are found in the ever developing Tech industry. Each section is written by a different contributor of this research.The research covers career paths such as Software engineering, Data Scientist, Digital marketer, UX designer and amongst others.
+This assessment covers The various career paths that are found in the ever developing Tech industry. Each section is written by a different contributor of this research. The research covers career paths such as Software engineering, Data Scientist, Digital marketer, UX designer and amongst others.
 
 ## Software engineer
 
 A Software Engineer is a professional who designs, builds, tests, and maintains software systems and applications.
 Software engineers use programming languages, problem-solving skills, and engineering principles to create solutions for real-world problems.
 
-### What Does a Software Engineer Do?
+### What a Software Engineer does
 
 - Write and test code
 - Debug and fix software issues
@@ -50,12 +50,14 @@ Software engineers are expected to possess a range of skills, including proficie
 - Professional Software Developer Certification
 
 ### Useful links 
+
 - [Tools and platforms](https://code.visualstudio.com/)
 - [Career & Job Resources](https://www.glassdoor.com/Salaries/software-engineer-salary-SRCH_KO0,17.htm)
 - [Developer communities](https://github.community/)
 
 
 ## Data scientist
+
 **Data scientist** collects, analyze, and interpret large datasets to help organizations make informed decisions.
 They use skills in statistics, programming, and business knowledge with tools like Python, R, SQL, and machine learning frameworks to uncover patterns, predict trends, and transform raw data into insights that can drive growth and innovation.
 ### What Data scientist can do
@@ -65,6 +67,7 @@ They use skills in statistics, programming, and business knowledge with tools li
 - Building predictive models using machine learning
 
 ### Skills Required
+
 1. Strong understanding of statistics and mathematics
 2. Knowledge of machine learning concepts
 3. Data visualization skills
@@ -78,12 +81,14 @@ The median annual wage for data scientists was $112,590 in May 2024.
 About 23,400 openings for data scientists are projected each year, on average, over the decade. 
 
 ### Skills and recommended certifications
+
 Data scientists are expected to possess a range of skills such as mathematics and statistics, programming languages, machine learning, data wrangling and data visualization. Recommended certifications for data scientists include:
 - Certified Analytics Professional (CAP)
 - Google Data Analytics Professional Certificate
 - IBM Data Science Professional Certificate
 
 ### Useful Links
+
 - [What is Data Science?](https://www.ibm.com/think/topics/data-science)
 - [Kaggle-Practice Data Science](https://www.kaggle.com/)
 - [Google Data Analytics Certificate](https://grow.google/intl/ssa-en/)
